@@ -15,16 +15,16 @@ Great introduction materials:
 - Q is for Quantum, Terry Rudolph
 
 
-
 For more coding based understanding of QC:
 
 - [The Qiskit Textbook](https://qiskit.org/textbook/preface.html) 
         - [Qiskit YouTube channel](https://www.youtube.com/c/qiskit)
 - [Xanadu Quantum Codebok](https://codebook.xanadu.ai/) 
+- [Quantum Computing UK](https://quantumcomputinguk.org/)
 
 
 For those with more experience of physics and maths (undergraduate level)
 
 - Quantum Computation and Quantum Information, Nielsen & Chuang 
 
-In addition, each chapter may have some references with relevant links.
+Some chapters have exercise questions (with solutions being added) to help develop understanding. 
