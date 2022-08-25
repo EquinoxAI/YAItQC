@@ -11,8 +11,10 @@ Rather than *standing on the shoulders of giants* this work sits on a pile of te
 
 Great introduction materials:
 
+
 - [Introduction to Classical and Quantum Computing, Thomas G Wong](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf)
-- Q is for Quantum, Terry Rudolph
+- [Quantum Country, Andy Matuschak and Michael Nielsen](https://quantum.country/)
+- Q is for Quantum, Terry Rudolph (Book, paid)
 
 
 For more coding based understanding of QC:
@@ -20,7 +22,7 @@ For more coding based understanding of QC:
 - [The Qiskit Textbook](https://qiskit.org/textbook/preface.html) 
         - [Qiskit YouTube channel](https://www.youtube.com/c/qiskit)
 - [Xanadu Quantum Codebok](https://codebook.xanadu.ai/) 
-- [Quantum Computing UK](https://quantumcomputinguk.org/)
+- [Quantum Computing UK](https://quantumcomputinguk.org/) (paid)
 
 
 For those with more experience of physics and maths (undergraduate level)
